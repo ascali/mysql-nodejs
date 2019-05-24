@@ -1,0 +1,17 @@
+{
+  "name": "nmysql",
+  "version": "1.0.0",
+  "description": "nmysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nmysql"
+  ],
+  "author": "Ascaliko",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
